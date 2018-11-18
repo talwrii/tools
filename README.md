@@ -7,7 +7,7 @@ Tools written by talwrii
 * [clixpath](https://github.com/talwrii/clixpath) is a tool for selecting elements from XML and HTML documents using XPaths, which produces machine-readable output in JSON. Clixpath implements a feature analogous to capture groups in regular expressions.
 * [clixmod](https://github.com/talwrii/clixmod) is a companion tool to clixpath to modify XML or HTML documents. It provides regexp capture group style replacement - though the most common use case will be to delete content from documents.
  
-## Productivity toolsq
+## Productivity tools
 
 ### i3
 
